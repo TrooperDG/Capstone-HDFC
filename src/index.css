@@ -1,0 +1,20 @@
+@import "tailwindcss";
+html,
+body,
+#root {
+  height: 100%;
+}
+body {
+  @apply bg-gray-50 text-gray-800;
+}
+
+/* small helper styles */
+.phone-frame {
+  border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(2, 6, 23, 0.12);
+}
+.app-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 10px;
+}
