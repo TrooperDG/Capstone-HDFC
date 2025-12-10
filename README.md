@@ -4,6 +4,8 @@ A simulation-based frontend prototype demonstrating how a **secure, reliable, an
 
 This project simulates how banks can deliver messages safely and consistently across **SMS, WhatsApp, Email, and In-App Inbox** with **smart retry**, **fallback**, and **trusted verification**.
 
+**Live Demo (Vercel):** https://capstone-hdfc.vercel.app
+
 **Tech Stack:** React (Vite) + Tailwind CSS — Pure Frontend Simulation  
  Entire logic runs client-side with a custom simulation engine.
 
